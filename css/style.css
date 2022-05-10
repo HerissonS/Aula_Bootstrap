@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.navbar {
+    background-color:greenyellow;
+}
+
+.quem-somos {
+    background-color:darkcyan;
+    color: white;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
